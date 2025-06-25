@@ -1,6 +1,6 @@
-THE ORIGNAL REPO OF THIS PROJECT IS PRIVATE 
+# THE ORIGNAL REPO OF THIS PROJECT IS PRIVATE
 
-# Complaint and Mess Change App
+## HAB Complaint App 
 
 A Flutter-based mobile app built for IIT Guwahati students to submit hostel complaints and request monthly mess changes. The system integrates a secure backend with role-based escalation and automated monthly processing.
 
